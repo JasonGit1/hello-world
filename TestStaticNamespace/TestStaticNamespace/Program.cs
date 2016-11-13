@@ -13,11 +13,6 @@ namespace TestStaticNamespace
         static void Main(string[] args)
         {
             WriteLine(PI);
-
-            WriteLine(Sqrt(25));
-
-            WriteLine("Changed");
-
         }
     }
 }
